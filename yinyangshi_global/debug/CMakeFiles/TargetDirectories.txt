@@ -1,0 +1,9 @@
+C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/yinyangshi_global.dir
+C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/edit_cache.dir
+C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/list_install_components.dir
+C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/install.dir
+C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/install/local.dir
+C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/install/strip.dir
+C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/yinyangshi_global_autogen_timestamp_deps.dir
+C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/yinyangshi_global_autogen.dir

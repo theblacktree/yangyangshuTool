@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Qt/Projects/yinyangshi_global/debug/yinyangshi_global_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Qt/Projects/yinyangshi_global/debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Qt/Projects/yinyangshi_global/debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Qt/Projects/yinyangshi_global",
+	"CMAKE_SOURCE_DIR" : "C:/Qt/Projects/yinyangshi_global",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Qt/Projects/yinyangshi_global/debug/yinyangshi_global_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/yinyangshi_global_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.5.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Qt/Projects/yinyangshi_global/debug/CMakeFiles/yinyangshi_global_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Qt/Projects/yinyangshi_global/Resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

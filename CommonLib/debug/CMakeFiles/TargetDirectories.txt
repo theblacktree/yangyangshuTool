@@ -1,0 +1,5 @@
+C:/Qt/Projects/CommonLib/debug/CMakeFiles/CommonLib.dir
+C:/Qt/Projects/CommonLib/debug/CMakeFiles/edit_cache.dir
+C:/Qt/Projects/CommonLib/debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/Projects/CommonLib/debug/CMakeFiles/CommonLib_autogen_timestamp_deps.dir
+C:/Qt/Projects/CommonLib/debug/CMakeFiles/CommonLib_autogen.dir
